@@ -3,7 +3,7 @@ Resource  ../Resources/GlobalVariables.robot
 Resource  ../Resources/UserRequestKeywords.robot
 *** Test Cases ***
 Make a simple API call
-    Check github username
+    Check Github Username
 Display bio from github
     Bio From Github
 Get avatar username
