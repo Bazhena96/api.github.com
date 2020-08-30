@@ -14,6 +14,9 @@ Get user location
     User Location
 Get user blog
     User Blog
+Add second user location
+    Post User Location
+
 
 
 
